@@ -229,8 +229,8 @@ public class Main {
             {
                 if(banDocs[i].getHoTen() == Ten)
                 {
-                    count++;
                     bd[count] = banDocs[i];
+                    count++;
                 }
             }
         }
